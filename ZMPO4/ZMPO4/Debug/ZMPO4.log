@@ -1,0 +1,17 @@
+﻿  ZMPO4.cpp
+c:\users\rudy\source\repos\zmpo4\zmpo4\zmpo4.cpp(11): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  CTree.cpp
+c:\users\rudy\source\repos\zmpo4\zmpo4\ctree.cpp(155): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rudy\source\repos\zmpo4\zmpo4\ctree.cpp(178): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rudy\source\repos\zmpo4\zmpo4\ctree.cpp(194): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rudy\source\repos\zmpo4\zmpo4\ctree.cpp(204): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rudy\source\repos\zmpo4\zmpo4\ctree.cpp(214): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rudy\source\repos\zmpo4\zmpo4\ctree.cpp(322): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rudy\source\repos\zmpo4\zmpo4\ctree.cpp(339): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+c:\users\rudy\source\repos\zmpo4\zmpo4\ctree.cpp(272): warning C4715: "CTree::compute”: niewszystkie ścieżki kodu zwracają wartość
+  Pomijanie... (nie wykryto odpowiednich zmian)
+  GeneticProgramming.cpp
+  CommandServe.cpp
+  CNode.cpp
+  ZMPO4.vcxproj -> C:\Users\Rudy\source\repos\ZMPO4\Debug\ZMPO4.exe
