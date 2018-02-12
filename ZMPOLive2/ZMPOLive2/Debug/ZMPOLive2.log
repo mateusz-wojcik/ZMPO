@@ -1,0 +1,6 @@
+﻿  ZMPOLive2.cpp
+c:\users\rudy\source\repos\zmpolive2\zmpolive2\fullstackexception.h(3): warning C4005: "ERROR": ponowna definicja makra
+  c:\users\rudy\source\repos\zmpolive2\zmpolive2\emptystackexception.h(3): note: zobacz poprzednią definicję „ERROR”
+c:\users\rudy\source\repos\zmpolive2\zmpolive2\fullstackexception.h(4): warning C4005: "ERROR_CODE": ponowna definicja makra
+  c:\users\rudy\source\repos\zmpolive2\zmpolive2\emptystackexception.h(4): note: zobacz poprzednią definicję „ERROR_CODE”
+  ZMPOLive2.vcxproj -> C:\Users\Rudy\source\repos\ZMPOLive2\Debug\ZMPOLive2.exe
