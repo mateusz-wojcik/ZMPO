@@ -1,0 +1,6 @@
+﻿  CTree.cpp
+c:\users\rudy\source\repos\zmpo_lab_3\zmpo3\ctree.cpp(85): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\rudy\source\repos\zmpo_lab_3\zmpo3\ctree.cpp(86): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\rudy\source\repos\zmpo_lab_3\zmpo3\ctree.cpp(93): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rudy\source\repos\zmpo_lab_3\zmpo3\ctree.cpp(88): warning C4715: "CTree::compute”: niewszystkie ścieżki kodu zwracają wartość
+  ZMPO3.vcxproj -> C:\Users\Rudy\source\repos\ZMPO_LAB_3\Debug\ZMPO3.exe

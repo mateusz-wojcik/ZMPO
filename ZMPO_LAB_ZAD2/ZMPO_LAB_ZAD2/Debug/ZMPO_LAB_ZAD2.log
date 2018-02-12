@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\rudy\source\repos\zmpo_lab_zad2\zmpo_lab_zad2\main.cpp(50): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ZMPO_LAB_ZAD2.vcxproj -> C:\Users\Rudy\source\repos\ZMPO_LAB_ZAD2\Debug\ZMPO_LAB_ZAD2.exe
+  ZMPO_LAB_ZAD2.vcxproj -> C:\Users\Rudy\source\repos\ZMPO_LAB_ZAD2\Debug\ZMPO_LAB_ZAD2.pdb (Partial PDB)
